@@ -1,4 +1,4 @@
-﻿# Udacity Machine Learning Nanodegree Capstone![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+﻿# Machine Learning Capstone![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 
 Capstone Submission Files
